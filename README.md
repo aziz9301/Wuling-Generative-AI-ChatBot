@@ -7,7 +7,7 @@ This is a website where a Chat bot feature is added, which uses services from IB
 # Steps
 
 1. Create an IBM Cloud Account first
-link to IBM CLoud website https://cloud.ibm.com/
+link to IBM CLoud website [IBM Cloud] (https://cloud.ibm.com/)
 
 2. This is the initial view of IBM Cloud if you have signed up
    # input gambar
